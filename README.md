@@ -1,4 +1,4 @@
-<h1 align="center">Hello World 👋, I'm Rajput Prathameshsingh</h1>
+<h1 align="center">Hello World 👋, I'm Prathameshsingh Rajput</h1>
 
 <div align="center">
     <p>✨ Do More Not Enough ✨</p>
