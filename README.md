@@ -4,7 +4,7 @@
     <p>✨ Do More Not Enough ✨</p>
     <br>
     <div align="center">
-         <img src="https://komarev.com/ghpvc/?username=connect-psr">
+         <img src="https://komarev.com/ghpvc/?username=prathameshsingh-rajput">
     </div>
 </div>
 
@@ -41,7 +41,7 @@
 
 ## 📊 GitHub Stats:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=connect-psr&show_icons=false&rank_icon=github&locale=en" alt="connect-psr" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prathameshsingh-rajput&show_icons=false&rank_icon=github&locale=en" alt="connect-psr" /></p>
 
 <br>
 
