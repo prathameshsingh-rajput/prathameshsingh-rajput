@@ -41,17 +41,17 @@
 
 ## 📊 GitHub Stats:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prathameshsingh-rajput&show_icons=false&rank_icon=github&locale=en" alt="connect-psr" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prathameshsingh-rajput&show_icons=false&rank_icon=github&locale=en" alt="prathameshsingh-rajput" /></p>
 
 <br>
 
 <table>
 <tr>
  <td>
-   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=connect-psr&show_icons=true&locale=en&layout=compact" alt="connect-psr" /></p>
+   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathameshsingh-rajput&show_icons=true&locale=en&layout=compact" alt="prathameshsingh-rajput" /></p>
  </td>
  <td>
-   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=connect-psr&" alt="connect-psr" /></p>   
+   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prathameshsingh-rajput&" alt="prathameshsingh-rajput" /></p>   
  </td>
 </tr>
 </table>
