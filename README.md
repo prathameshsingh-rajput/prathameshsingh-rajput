@@ -40,32 +40,7 @@
 
 <div align="center">
 
-## 📊 GitHub Stats:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prathameshsingh-rajput&show_icons=false&rank_icon=github&locale=en" alt="prathameshsingh-rajput" /></p>
-
-<br>
-
-<table>
-<tr>
- <td>
-   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathameshsingh-rajput&show_icons=true&locale=en&layout=compact" alt="prathameshsingh-rajput" /></p>
- </td>
- <td>
-   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prathameshsingh-rajput&" alt="prathameshsingh-rajput" /></p>   
- </td>
-</tr>
-</table>
-
-</div>
-
-<div align="center">
-
-## 🏆 GitHub Trophies
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prathameshsingh-rajput" alt="prathameshsingh-rajput" /></a>
-
-
-</div>
 
 ---
 
@@ -79,4 +54,5 @@
 <a href="https://auth.geeksforgeeks.org/user/connect-psr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="connect-psr" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/connect_psr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="connect_psr" height="30" width="40" /></a>
 </div>
+
 
